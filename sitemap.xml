@@ -1,20 +1,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>https://nikah-siri.netlify.app/index.html</loc>
+		<loc>https://nikah-siri.vercel.app/index.html</loc>
 	</url>
 	<url>
-		<loc>https://nikah-siri.netlify.app/tentang.html</loc>
+		<loc>https://nikah-siri.vercel.app/tentang.html</loc>
 	</url>
 	<url>
-		<loc>https://nikah-siri.netlify.app/daftar-isi.html</loc>
+		<loc>https://nikah-siri.vercel.app/404.html</loc>
 	</url>
 	<url>
-		<loc>https://nikah-siri.netlify.app/404.html</loc>
-	</url>
-	<url>
-		<loc>https://nikah-siri.netlify.app/tempat-nikah-siri-di-jakarta.html</loc>
-	</url>
-	<url>
-		<loc>https://nikah-siri.netlify.app/kontak.html</loc>
+		<loc>https://nikah-siri.vercel.app/kontak.html</loc>
 	</url>
 </urlset>
